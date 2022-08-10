@@ -2,7 +2,7 @@
 
 **piXel** is a short program used to parse Pi's binary floating numbers and search for a given pixel art.
 
-## Requierements
+## Requirements
 
 `python` is required to launch the program.
 
